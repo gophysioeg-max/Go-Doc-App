@@ -1,0 +1,19 @@
+id,title,authors,edition,year,publisher,specialty,kind,tier,priority,language,file,review_date,status
+goodman-differential-diagnosis,Goodman & Snyder's Differential Diagnosis for Physical Therapists: Screening for Referral,"Heick, Lazaro",7th,2022,Elsevier,screening,textbook,clinical,P0,en,goodman-differential-diagnosis-7e.pdf,2027-10-01,active
+magee-orthopedic-assessment,Magee's Orthopedic Physical Assessment,"Manske, Magee",8th,2026,Elsevier,orthopaedics,textbook,clinical,P0,en,magee-orthopedic-physical-assessment-8e.pdf,2027-10-01,active
+netter-orthopaedic-examination,Netter's Orthopaedic Clinical Examination,"Cleland, Koppenhaver, Su",4th,2021,Elsevier,orthopaedics,textbook,clinical,P0,en,netters-orthopaedic-clinical-examination-4e.pdf,2027-10-01,active
+dutton-orthopaedic,Dutton's Orthopaedic: Examination Evaluation and Intervention,Dutton,6th,2023,McGraw Hill,orthopaedics,textbook,clinical,P0,en,duttons-orthopaedic-6e.pdf,2027-10-01,active
+kisner-therapeutic-exercise,Therapeutic Exercise: Foundations and Techniques,"Kisner, Colby, Borstad",8th,2022,F.A. Davis,exercise,textbook,clinical,P0,en,kisner-therapeutic-exercise-8e.pdf,2027-10-01,active
+clinical-orthopaedic-rehabilitation,Clinical Orthopaedic Rehabilitation: A Team Approach,"Giangarra, Manske",4th,2018,Elsevier,post-surgical,textbook,clinical,P0,en,clinical-orthopaedic-rehabilitation-4e.pdf,2027-07-01,active
+osullivan-physical-rehabilitation,O'Sullivan & Schmitz's Physical Rehabilitation,"Fulk, Chui",8th,2024,F.A. Davis,general,textbook,clinical,P0,en,osullivan-physical-rehabilitation-8e.pdf,2027-10-01,active
+umphred-neurological-rehabilitation,Umphred's Neurological Rehabilitation,Lazaro,8th,2025,Elsevier,neurology,textbook,clinical,P0,en,umphreds-neurological-rehabilitation-8e.pdf,2027-10-01,active
+lennon-neurological-conditions,Physical Management for Neurological Conditions,"Lennon, Ramdharry, Verheyden",5th,2024,Elsevier,neurology,textbook,clinical,P0,en,physical-management-neurological-conditions-5e.pdf,2027-10-01,active
+campbell-physical-therapy-children,Campbell's Physical Therapy for Children,"Palisano, Orlin, Schreiber",6th,2022,Elsevier,paediatrics,textbook,clinical,P0,en,campbells-physical-therapy-for-children-6e.pdf,2027-10-01,active
+guccione-geriatric,Guccione's Geriatric Physical Therapy,"Avers, Wong",4th,2020,Elsevier,geriatrics,textbook,clinical,P0,en,gucciones-geriatric-physical-therapy-4e.pdf,2027-10-01,active
+sluka-pain,Mechanisms and Management of Pain for the Physical Therapist,Sluka,3rd,2025,Elsevier,pain,textbook,clinical,P0,en,sluka-pain-3e.pdf,2027-10-01,active
+explain-pain,Explain Pain,"Butler, Moseley",2nd,2013,NOI Group,pain,textbook,clinical,P0,en,explain-pain-2e.pdf,2027-10-01,active
+acsm-guidelines,ACSM's Guidelines for Exercise Testing and Prescription,ACSM,12th,2025,Wolters Kluwer,exercise,textbook,clinical,P0,en,acsm-guidelines-12e.pdf,2027-10-01,active
+nice-ng59-low-back-pain,NICE NG59: Low back pain and sciatica in over 16s,NICE,2020 update,2020,NICE,orthopaedics,guideline,clinical,P0,en,nice-ng59-low-back-pain.pdf,2027-04-01,active
+nice-ng226-osteoarthritis,NICE NG226: Osteoarthritis in over 16s,NICE,2022,2022,NICE,orthopaedics,guideline,clinical,P0,en,nice-ng226-osteoarthritis.pdf,2027-04-01,active
+who-chronic-low-back-pain,WHO guideline on non-surgical management of chronic primary low back pain in adults,WHO,2023,2023,WHO,orthopaedics,guideline,clinical,P0,en,who-chronic-low-back-pain-2023.pdf,2027-04-01,active
+mona-home-pt-program,Go Doc Home PT Program (Mona),Go Doc,1,2026,Go Doc,orthopaedics,program,clinical,P0,en,mona-home-pt-program.pdf,2027-04-01,active

@@ -1,0 +1,31 @@
+[project]
+name = "godoc-rag"
+version = "0.1.0"
+description = "Go Doc knowledge base: ingestion, hybrid search and cited answers"
+requires-python = ">=3.11"
+dependencies = [
+  "pymupdf>=1.24",
+  "psycopg[binary]>=3.2",
+  "pgvector>=0.3",
+  "numpy>=1.26",
+  "anthropic>=2.3",
+  "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+local = ["sentence-transformers>=3.0"]   # bge-m3 embeddings, runs offline
+voyage = ["voyageai>=0.3"]
+dev = ["pytest>=8"]
+
+[project.scripts]
+godoc-rag = "godoc_rag.cli:main"
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["godoc_rag"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
